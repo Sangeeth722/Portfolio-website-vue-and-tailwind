@@ -10,6 +10,12 @@ This template should help get you started developing with Vue 3 in Vite.
 
 See [Vite Configuration Reference](https://vite.dev/config/).
 
+## websiteimages
+<img src="screenshots/Screenshot 2025-03-29 141508.png" alt="Homepage Screenshot" width="600">
+
+
+
+
 ## Project Setup
 
 ```sh
