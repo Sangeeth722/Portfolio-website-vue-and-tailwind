@@ -14,6 +14,14 @@ See [Vite Configuration Reference](https://vite.dev/config/).
 <img src="screenshots/Screenshot 2025-03-29 141508.png" alt="Homepage Screenshot" width="600">
 
 
+##darkmode
+<img src="screenshots/darkmeode.png" alt="Homepage Screenshot" width="600">
+
+##Mobile
+<img src="screenshots/Screenshot 2025-03-29 141818.png" alt="Homepage Screenshot" width="600">
+<img src="screenshots/Screenshot 2025-03-29 141641.png" alt="Homepage Screenshot" width="600">
+
+
 
 
 ## Project Setup
